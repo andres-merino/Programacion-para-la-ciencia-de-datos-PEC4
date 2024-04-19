@@ -9,7 +9,7 @@
 <br />
 <div align="center">
 
-<h3 align="center">Programacion para la ciencia de datos PEC 4/h3>
+<h3 align="center">Programacion para la ciencia de datos PEC 4</h3>
   <p align="center">
     Solución de la PEC4 de la asignatura Programación para la ciencia de datos de la UOC.  
     <br />
@@ -92,11 +92,9 @@ La documentación se generó de manera automática utilizando `pdoc`.
 
 ## Créditos
 
-Andrés Merino\
-[Proyecto Alephsub0](https://www.alephsub0.org/about/),\
-Docente Investigador\
-Pontificia Universidad Católica del Ecuador\
-aemerinot@gmail.com\
+Andrés Merino (aemerinot@gmail.com)
+- Docente-Investigador en Pontificia Universidad Católica del Ecuador
+- Fundador del [Proyecto Alephsub0](https://www.alephsub0.org/about/)
 
 [![LinkedIn][linkedin-shield]][linkedin-url-aemt]
 
